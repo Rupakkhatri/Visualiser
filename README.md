@@ -1,7 +1,8 @@
-![Screenshot](Screenshot/sc1.png)
-![Screenshot](Screenshot/sc2.png)
-![Screenshot](Screenshot/sc3.png)
-![Screenshot](Screenshot/sc4.png)
+![SC1](https://user-images.githubusercontent.com/70404347/147600774-168eb029-06b9-4324-89ce-407feb4f12ff.jpeg)
+![SC2](https://user-images.githubusercontent.com/70404347/147600770-6bd49e30-0fd5-4d89-b983-9886997d259d.jpeg)
+![SC3](https://user-images.githubusercontent.com/70404347/147600814-11016727-07a5-48a4-bb37-fa685e3e83bf.jpeg)
+![SC4](https://user-images.githubusercontent.com/70404347/147600768-da8b193d-59bf-47db-b51c-95c0c98696cc.jpeg)
+
 
 ## Client
 
