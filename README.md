@@ -1,7 +1,7 @@
-![Screenshot](sc1.png)
-![Screenshot](sc2.png)
-![Screenshot](sc3.png)
-![Screenshot](sc4.png)
+![Screenshot](Screenshot/sc1.png)
+![Screenshot](Screenshot/sc2.png)
+![Screenshot](Screenshot/sc3.png)
+![Screenshot](Screenshot/sc4.png)
 
 ## Client
 
